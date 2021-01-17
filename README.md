@@ -17,8 +17,6 @@ Project is created with:
 
 ## Results
 
-Regardless of optimization issues, the results of less than two-minute training
-were very promising especially because training dataset doesn't include
-negative integers, number 88 and 123, yet the model was able to predict equations with high precision.
+Regardless of optimization issues the results of less than two-minute training were very promising, especially because the training dataset doesn't include negative integers, number 88 and 123, yet the model was able to predict equations with high precision.
 
 ![Results](screenshot.png "screenshot")
