@@ -1,5 +1,5 @@
 ## General information
-This project is simple recurrent neural network build with Neataptic. The goal is to create a model that can correctly apply the principle of adding integers.
+This project is a simple recurrent neural network build with Neataptic. The goal is to create a model that can correctly apply the principle of adding integers.
 
 ## Libraries
 Project is created with:
