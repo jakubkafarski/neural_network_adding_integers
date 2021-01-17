@@ -9,10 +9,10 @@ Project is created with:
 `$ npm install`
 
 ## Train model
-`node train_model.js`
+`$ node train_model.js`
 
 ## Test saved model
-`node test_model.js`
+`$ node test_model.js`
 
 
 ## Results
