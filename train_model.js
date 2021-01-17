@@ -19,9 +19,3 @@ function trainNeuralNetwork() {
 }
 
 trainNeuralNetwork()
-
-// types of NN
-// types of mutations
-// genetic algorithms
-// stabilizing training results
-// optimizing training
